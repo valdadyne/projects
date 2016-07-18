@@ -1,6 +1,7 @@
 # Front-End projects
 
-+ **Project Name** AnimeKenya.
+
+#1 + **Project Name** AnimeKenya.
 + **Author**  valdadyne.
 + **Repo Link** [AnimeKenya](https://github.com/valdadyne/animeKenya)
 + **Project Description**  An anime fanpage.
