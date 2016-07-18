@@ -14,6 +14,8 @@
   + **Project Name** AnimeKenya.
   + **Repo Link** [AnimeKenya](https://github.com/valdadyne/animeKenya)
   + **Project Description**  An anime fanpage.
+  + **Features**
+      a)Homepage with a tab for navigation to various content.
   + **Tools** Developed using Firebase,HTML5,CSS3(Foundation 6) and JQuery.
   + **Contributors**
     - [Rodgers M Gitau](https://github.com/valdadyne)      *Scope* - Community Page and Firebase Config
