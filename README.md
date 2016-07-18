@@ -1,7 +1,7 @@
 # Front-End projects
 
 
-#1 
+#
   + **Project Name** AnimeKenya.
   + **Author**  valdadyne.
   + **Repo Link** [AnimeKenya](https://github.com/valdadyne/animeKenya)
@@ -10,3 +10,5 @@
   + **Collaborators**
     - [Rodgers M Gitau](https://github.com/valdadyne)   *Scope* - Community Page and Firebase Config
     - [Willard Shikami](https://github.com/willardshikami) *Scope* - Homepage and Blog Page
+
+#
