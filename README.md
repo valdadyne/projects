@@ -1,7 +1,16 @@
 # Front-End projects
+---
+  + **Project Name** Agikuyu People.
+  + **Repo Link** [AnimeKenya](https://github.com/valdadyne/Agikuyu)
+  + **Project Description**  Brief History and Culture of the Agikuyu People.
+  + **Tools** Developed using HTML5,CSS3,JavaScript and JQuery.(Foundation 6 Framework)
+  + **Collaborators**
+      - [Rodgers M Gitau](https://github.com/valdadyne)
 
+    
 
 ---
+
   + **Project Name** AnimeKenya.
   + **Repo Link** [AnimeKenya](https://github.com/valdadyne/animeKenya)
   + **Project Description**  An anime fanpage.
