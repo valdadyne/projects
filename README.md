@@ -5,15 +5,13 @@
   + **Project Link** (http://att-designs.netlify.com/)
   + **Project Description**  An design company with unrivaled creativity.
   + **Features**
-    + <br>
-   (Same-page)
+    + (Same-page)
       - Home
       - About Us
       - Portfolio(transitioning)
       - Members
       - Contacts 
-    + <br>
-      (Separate Page)
+    + (Separate Page)
       - Blog
   + **Tools** Developed using HTML5,CSS3,JavaScript and JQuery.(Foundation 6 Framework)
   + **Collaborators**
