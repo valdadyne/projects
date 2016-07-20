@@ -11,7 +11,7 @@
       + Portfolio(transitioning)
       + Members
       + Contacts <br>
-      (Separate Page)
+    (Separate Page)
       + Blog
   + **Tools** Developed using HTML5,CSS3,JavaScript and JQuery.(Foundation 6 Framework)
   + **Collaborators**
