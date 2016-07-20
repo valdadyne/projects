@@ -7,11 +7,11 @@
   + **Features**
   <br>
   (Same-page)
-  + Home
-  + About Us
-  + Portfolio(transitioning)
-  + Members
-  + Contacts 
+    - Home
+    - About Us
+    - Portfolio(transitioning)
+    - Members
+    - Contacts 
   <br>
   (Separate Page)
   + Blog
