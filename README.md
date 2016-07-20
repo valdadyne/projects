@@ -1,10 +1,18 @@
 # Front-End projects
 ---
-  + **Project Name** Agikuyu People.
-  + **Repo Link** [Agikuyu](https://github.com/valdadyne/Agikuyu)
-  + **Project Description**  Brief History and Culture of the Agikuyu People.
+  + **Project Name** ATT-Designs
+  + **Repo Link** [ATT-Designs](https://github.com/valdadyne/ATT-designs)
+  + **Project Link** (http://att-designs.netlify.com/)
+  + **Project Description**  An design company with unrivaled creativity.
   + **Features**
-      + Homepage with a tab for navigation to various content.
+      (Same-page)
+      + Home
+      + About Us
+      + Portfolio(transitioning)
+      + Members
+      + Contacts
+      (Separate Page)
+      + Blog
   + **Tools** Developed using HTML5,CSS3,JavaScript and JQuery.(Foundation 6 Framework)
   + **Collaborators**
       - [Rodgers M Gitau](https://github.com/valdadyne)
