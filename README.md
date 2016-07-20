@@ -7,14 +7,14 @@
   + **Features**
   <br>
   (Same-page)
-      + Home
-      + About Us
-      + Portfolio(transitioning)
-      + Members
-      + Contacts 
+  + Home
+  + About Us
+  + Portfolio(transitioning)
+  + Members
+  + Contacts 
   <br>
   (Separate Page)
-      + Blog
+  + Blog
   + **Tools** Developed using HTML5,CSS3,JavaScript and JQuery.(Foundation 6 Framework)
   + **Collaborators**
       - [Rodgers M Gitau](https://github.com/valdadyne)
