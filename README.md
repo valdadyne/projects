@@ -8,7 +8,7 @@
     - Home
     - About Me
     - Portfolio(transitioning)
-  + **Tools** Developed using HTML5,CSS3,JavaScript and JQuery.(Foundation 6 Framework)
+  + **Tools** Developed using HTML5,CSS3,JavaScript and JQuery.(Foundation 6 Framework),FontAwesome.
   + **Collaborators**
       - [Rodgers M Gitau](https://github.com/valdadyne)
 
