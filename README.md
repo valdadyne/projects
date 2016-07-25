@@ -1,5 +1,20 @@
 # Front-End projects
 ---
+  + **Project Name** My-Portfolio
+  + **Repo Link** [ATT-Designs](https://github.com/valdadyne/spare-portfolio)
+  + **Project Link** (http://rodgersgitau.netlify.com)
+  + **Project Description**  My Personal Portfolio
+  + **Features**
+    - Home
+    - About Me
+    - Portfolio(transitioning)
+  + **Tools** Developed using HTML5,CSS3,JavaScript and JQuery.(Foundation 6 Framework)
+  + **Collaborators**
+      - [Rodgers M Gitau](https://github.com/valdadyne)
+
+    
+
+---
   + **Project Name** ATT-Designs
   + **Repo Link** [ATT-Designs](https://github.com/valdadyne/ATT-designs)
   + **Project Link** (http://att-designs.netlify.com/)
@@ -16,11 +31,8 @@
   + **Tools** Developed using HTML5,CSS3,JavaScript and JQuery.(Foundation 6 Framework)
   + **Collaborators**
       - [Rodgers M Gitau](https://github.com/valdadyne)
-
-    
-
+  
 ---
-
   + **Project Name** AnimeKenya.
   + **Repo Link** [AnimeKenya](https://github.com/valdadyne/animeKenya)
   + **Project Description**  An anime fanpage.
