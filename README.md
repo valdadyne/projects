@@ -34,7 +34,7 @@
   
 ---
 
-## AnimeKenya.
+## AnimeKenya
   + **Repo Link** [AnimeKenya](https://github.com/valdadyne/animeKenya)
   + + **Project Link** (http://animeKenya.netlify.com)
   + **Project Description**  An anime fanpage.
