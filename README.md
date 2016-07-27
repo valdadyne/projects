@@ -1,4 +1,4 @@
-  ## My-Portfolio
+## My-Portfolio
   + **Repo Link** [My-Portfolio](https://github.com/valdadyne/my-portfolio)
   + **Project Link** (http://rodgersgitau.netlify.com)
   + **Project Description**  My Personal Portfolio
@@ -15,7 +15,7 @@
 # Front-End projects
 
 ---
-  ## ATT-Designs
+## ATT-Designs
   + **Repo Link** [ATT-Designs](https://github.com/valdadyne/ATT-designs)
   + **Project Link** (http://att-designs.netlify.com/)
   + **Project Description**  An design company with unrivaled creativity.
@@ -33,7 +33,8 @@
       - [Rodgers M Gitau](https://github.com/valdadyne)
   
 ---
-  ## AnimeKenya.
+
+## AnimeKenya.
   + **Repo Link** [AnimeKenya](https://github.com/valdadyne/animeKenya)
   + + **Project Link** (http://animeKenya.netlify.com)
   + **Project Description**  An anime fanpage.
