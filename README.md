@@ -1,4 +1,3 @@
----
   + **Project Name** My-Portfolio
   + **Repo Link** [My-Portfolio](https://github.com/valdadyne/my-portfolio)
   + **Project Link** (http://rodgersgitau.netlify.com)
@@ -11,8 +10,10 @@
   + **Collaborators**
       - [Rodgers M Gitau](https://github.com/valdadyne)
 
-    
+---
+
 # Front-End projects
+
 ---
   + **Project Name** ATT-Designs
   + **Repo Link** [ATT-Designs](https://github.com/valdadyne/ATT-designs)
