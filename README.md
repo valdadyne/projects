@@ -1,7 +1,7 @@
 # Front-End projects
 ---
   + **Project Name** My-Portfolio
-  + **Repo Link** [My-Portfolio](https://github.com/valdadyne/spare-portfolio)
+  + **Repo Link** [My-Portfolio](https://github.com/valdadyne/my-portfolio)
   + **Project Link** (http://rodgersgitau.netlify.com)
   + **Project Description**  My Personal Portfolio
   + **Features**
