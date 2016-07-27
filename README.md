@@ -36,7 +36,7 @@
 
 ## AnimeKenya
   + **Repo Link** [AnimeKenya](https://github.com/valdadyne/animeKenya)
-  + + **Project Link** (http://animeKenya.netlify.com)
+  + **Project Link** (http://animeKenya.netlify.com)
   + **Project Description**  An anime fanpage.
   + **Tools** Developed using Firebase,HTML5,CSS3(Foundation 6) and JQuery.
   + **Contributors**
