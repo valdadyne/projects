@@ -44,3 +44,12 @@
     - [Willard Shikami](https://github.com/willardshikami) *Scope* - Homepage and Blog Page
 
 ---
+## Agikuyu People
+  + **Repo Link** [The Agikuyu People](https://github.com/valdadyne/Agikuyu)
+  + **Project Link** (http://the-agikuyu.bitballoon.com/)
+  + **Project Description**  Brief History and Culture of the Agikuyu People.
+  + **Tools** Developed using HTML5,CSS3,JavaScript and JQuery.(Foundation 6 Framework)
+  + **Contributors**
+    - [Rodgers M Gitau](https://github.com/valdadyne)
+   
+---
